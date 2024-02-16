@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply text-lg;
+}
+
+.projects img {
+  width: 100%;
+}
+
+/* color */
+.bg-primary {
+  background: #071511;
+}
+
+.test {
+  background: #43917e;
+}
+.bg-secondary {
+  background: #142c26;
+}
+
+.bg-accent {
+  background: #6db096;
+}
+
+.text-accent {
+  color: #6db096;
+}
+
+nav li a {
+  @apply px-4 py-5 text-lg;
+}
+
+nav li a:hover {
+  color: #fafad2;
+}
+
+.mobile-nav {
+  @apply block md:hidden fixed top-10 py-2 w-full h-full bg-gray-900 duration-500;
+}
+
+/* hero */
+h1 {
+  font-family: "Helvetica";
+  line-height: 1.5 !important;
+}

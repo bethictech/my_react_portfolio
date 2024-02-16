@@ -1,0 +1,167 @@
+{
+  "en": {
+    "nav": {
+      "about": "About",
+      "projects": "Projects",
+      "clients": "Clients",
+      "education": "Education",
+      "contact": "Contact",
+      "resume": "Resume"
+    },
+    "hero": {
+      "portfolio": "Hello, my name is Asmae BENKIRANE, This is my Responsive Portfolio built with ReactJS, Express, Nodemailer, googleapis and tailWindCSS...",
+      "presentation": "I am a fullstack developer and Product owner. I am proficient in both technical and functional aspects of a project.",
+      "contactMe": "Contact Me"
+    },
+    "about": {
+      "me": "About Me",
+      "p1": " Hello, my name is Asmae BENKIRANE, I am a dedicated and enthusiastic FullStack Developer and Product Owner, with 11 years of experience.",
+      "p2": "I can help you build and maintain your WEB applications. My principle langages are Java, Javascript, ReactJS, NodeJS...",
+      "p3": "I am proficient in both technical and functional aspects. I have significant experience in development, MCO and product ownership with many clients."
+    },
+    "projects": {
+      "intro": "These are some of my projects. They are built with Java EE, React, NodeJS, Next, express, Javascript, HTML, CSS, Prestashop...",
+      "onvs": {
+        "title": "ONVS Project",
+        "desc": "ONVS : French National health violence observatory. Built with React, Node.js, PostgreSQL, Next, Prisma and Tailwind CSS "
+      },
+      "galec": {
+        "title": "The GALEC E.LECLERC",
+        "desc": "The GALEC E-commerce website : E.leclerc, Built with Java EE, JSP, Html, CSS, JPA, MYSQL and JavaScript"
+      },
+      "candydukes": {
+        "title": "Candy Dukes",
+        "desc": "Candy Dukes : E-commerce Website of British grocery products, built with Prestashop"
+      },
+      "portfolio": {
+        "title": "My ReactJS Portfolio",
+        "desc": "Responsive React Portfolio, built with ReactJS, Express, TailwindCSS, nodemailer and googleapis"
+      }
+    },
+    "clients": {
+      "intro": "These are some of the clients I had the opportunity to work with :",
+      "MMA": {
+        "desc": "MMA : the mutual societies of Le Mans"
+      },
+      "MNT": {
+        "desc": "MNT : French National Territorial Mutual"
+      },
+      "MGEN": {
+        "desc": "MGEN : General Mutual of National Education"
+      },
+      "SFR": {
+        "desc": "SFR French telecommunications company"
+      },
+      "Orange": {
+        "desc": "Orange French telecommunications company"
+      },
+      "Galec": {
+        "desc": "Galec : Purchasing group of e.leclerc centers"
+      },
+      "Lectra": {
+        "desc": "Lectra automatic leather or textile cutting software and systems"
+      },
+      "NordCompo": {
+        "desc": "Nord Compo Publishing and Communication field"
+      },
+      "CandyDukes": {
+        "desc": "Candy Dukes British grocery brand"
+      }
+    },
+    "education": {
+      "p1": "I am a telecommunications engineer graduated from ENSEIRB-MATMECA in 2012, with a specialization in software engineering",
+      "p2": "National Higher School of Electronics, Computer Science, Telecommunications, Mathematics and Mechanics of Bordeaux (ENSEIRB MATMECA)"
+    },
+    "contact": {
+      "me": "Contact me",
+      "name": "Name",
+      "send": "Send"
+    },
+    "footer": {
+      "mention": "2024 bethictech All rights reserved "
+    }
+  },
+
+  "fr": {
+    "nav": {
+      "about": "À propos",
+      "projects": "Projets",
+      "clients": "Clients",
+      "education": "Formation",
+      "contact": "Contact",
+      "resume": "CV"
+    },
+    "hero": {
+      "portfolio": "Bonjour, je m'appelle Asmae BENKIRANE, Voici mon Portfolio Responsive construit avec ReactJS, Express, Nodemailer, googleapis et tailWindCSS....",
+      "presentation": "Je suis une développeuse fullstack ainsi qu'une Product owner. Je peux travailler aussi bien sur les parties techniques d'un projet que sur ses aspects fonctionnels.",
+      "contactMe": "Contactez Moi"
+    },
+    "about": {
+      "me": "À propos de moi",
+      "p1": "Bonjour, je m'appelle Asmae BENKIRANE, je suis une développeuse FullStack et Product Owner dévouée et enthousiaste, avec 11 ans d'expérience.",
+      "p2": "Je peux vous aider à développer et maintenir vos applications WEB. Mes principaux langages de programmation sont Java, Javascript, ReactJS, NodeJS...",
+      "p3": "Je peux travailler sur les parties techniques et fonctionnelles. J'ai une expérience significative dans le développement, le MCO et la PO avec de nombreux clients."
+    },
+    "projects": {
+      "intro": "Voici un aperçu de mes projets. Développés avec Java EE, React, NodeJS, Next, express, Javascript, HTML, CSS, Prestashop...",
+      "onvs": {
+        "title": "Projet ONVS",
+        "desc": "ONVS : Observatoire national des violences en santé. Développé avec React, Node.js, PostgreSQL, Next, Prisma et Tailwind CSS"
+      },
+      "galec": {
+        "title": "Le GALEC E.LECLERC",
+        "desc": "Le site e-commerce du GALEC : E.leclerc, développé avec Java EE, JSP, Html, CSS, JPA, MYSQL et JavaScript"
+      },
+      "candydukes": {
+        "title": "Candy Dukes",
+        "desc": "Candy Dukes : Site E-commerce de produits d'épicerie britannique, réalisé avec Prestashop"
+      },
+      "portfolio": {
+        "title": "Mon Portfolio ReactJS",
+        "desc": "Portfolio responsive, développé avec ReactJS, Express, TailwindCSS, nodemailer et googleapis"
+      }
+    },
+    "clients": {
+      "intro": "Voici quelques-uns des clients avec lesquels j'ai eu l'occasion de travailler :",
+      "MMA": {
+        "desc": "MMA : Les Mutuelles du Mans"
+      },
+      "MNT": {
+        "desc": "MNT : Mutuele Nationale Territoriale"
+      },
+      "MGEN": {
+        "desc": "MGEN : Mutuelle générale de l'Éducation nationale"
+      },
+      "SFR": {
+        "desc": "SFR : Société Française du Radiotéléphone,"
+      },
+      "Orange": {
+        "desc": "Orange : Société française de télécommunications"
+      },
+      "Galec": {
+        "desc": "GALEC : Groupement d'achats des centres E.LECLERC4"
+      },
+      "Lectra": {
+        "desc": "Entreprise spécialisée dans les logiciels et systèmes de découpe automatique de cuir ou textile"
+      },
+      "NordCompo": {
+        "desc": "Acteur majeur de l'Edition et la Communication"
+      },
+      "CandyDukes": {
+        "desc": "Candy Dukes : Produits d'épicerie britannique"
+      }
+    },
+    "education": {
+      "p1": "Je suis ingénieur en télécommunications, diplômé de l'ENSEIRB-MATMECA en 2012, avec une spécialisation en génie logiciel",
+      "p2": "Ecole nationale supérieure d'électronique, informatique, télécommunications, mathématiques et mécanique de Bordeaux (ENSEIRB MATMECA)"
+    },
+    "contact": {
+      "me": "Contactez moi",
+      "name": "Nom",
+      "send": "Envoyer"
+    },
+    "footer": {
+      "mention": "2024 bethictech Tous droits réservés "
+    }
+  }
+}
